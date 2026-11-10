@@ -1,0 +1,6 @@
+{
+  "name": "Provider Plus - Provider Management",
+  "description": "Enterprise Provider Management application built with Spec-Driven Development (SDD) following ARB target architecture and CMS-PM standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
